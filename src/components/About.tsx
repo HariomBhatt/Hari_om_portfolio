@@ -138,7 +138,7 @@ export default function About() {
                     About Me
                 </h2>
                 <p className="text-base leading-8 text-gray-600 dark:text-gray-300 md:text-lg">
-                    I am a Computer Science student at{" "}
+                    Computer Science graduate from{" "}
                     <span className="font-semibold text-blue-600 dark:text-blue-400">
                         Graphic Era Hill University
                     </span>
