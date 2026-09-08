@@ -137,7 +137,35 @@ export default function About() {
                 <h2 className="mb-5 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-4xl font-extrabold text-transparent">
                     About Me
                 </h2>
-
+                <p className="text-base leading-8 text-gray-600 dark:text-gray-300 md:text-lg">
+                    I am a Computer Science student at{" "}
+                    <span className="font-semibold text-blue-600 dark:text-blue-400">
+                        Graphic Era Hill University
+                    </span>
+                    . I recently completed my{" "}
+                    <span className="font-semibold text-purple-600 dark:text-purple-400">
+                        AI & Machine Learning internship at Hack4U Pvt. Ltd.
+                    </span>
+                    , where I gained practical experience in data preprocessing, exploratory
+                    data analysis, machine learning, and basic deep learning. I have worked
+                    with libraries and tools such as{" "}
+                    <span className="font-semibold text-pink-600 dark:text-pink-400">
+                        Scikit-learn, TensorFlow, NumPy, Pandas, SQL, and Matplotlib
+                    </span>
+                    . Alongside my internship, I developed independent projects including{" "}
+                    <span className="font-semibold text-blue-600 dark:text-blue-400">
+                        Hybrid Stock Prediction Using Machine Learning and Sentiment Analysis
+                    </span>
+                    ,{" "}
+                    <span className="font-semibold text-purple-600 dark:text-purple-400">
+                        ResearchMind — Multi-Agent AI Research Assistant
+                    </span>
+                    , and{" "}
+                    <span className="font-semibold text-pink-600 dark:text-pink-400">
+                        CourseMate AI — RAG-Based Study Assistant
+                    </span>
+                    .
+                </p>
 
             </motion.div>
 
