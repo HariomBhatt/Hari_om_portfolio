@@ -4,7 +4,7 @@ export const projects = [
         description:
             "A machine learning application that predicts daily stock price movement by combining historical market data, technical indicators, and financial news sentiment. The project uses RSI, MACD, moving averages, Bollinger Bands, VADER sentiment analysis, and multiple classification models through an interactive Streamlit dashboard.",
         github: "https://github.com/HariomBhatt/REPLACE_WITH_STOCK_REPOSITORY",
-        image: "/images/stock.png",
+        image: "/images/stock-new.png",
         technologies: [
             "Python",
             "Scikit-learn",
